@@ -1,4 +1,6 @@
-### Django test Client
+## Django test Client
+
+<br>
 
 Since we're likely testing a web application, we're likely a lot of the time going to need to make requests to the app. Easy!
 

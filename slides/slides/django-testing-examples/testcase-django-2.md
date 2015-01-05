@@ -1,7 +1,9 @@
 ## Testing POST requests
-    
+
+<br>
+
     def test_superuser_can_add_new_blog_post(self):
-        title = 'Test Title 2'
+        title = 'Awesome Title 2'
         text = 'Here is lots of post content... blah blah blah...'
 
         response = self.client.post(reverse('post_new'), {

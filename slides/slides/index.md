@@ -1,10 +1,17 @@
+<br><br>
 
 # Django Testing
+
+<br>
+
+## What, why and how?
+
+<br>
 
 Jason Robinson & Charlie Hornsby
 
 Anders Innovations Oy
 
-<br><br><br>
+<br><br>
 
-_PyLadies Helsinki 16th Dec 2014_
+_Python Helsinki 7th Jan 2015_
