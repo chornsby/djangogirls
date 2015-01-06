@@ -28,3 +28,9 @@ python manage.py test blog.tests.BlogPostViewTestCase.test_view_renders
 ```
 
 
+Running all tests under a path
+
+```bash
+python manage.py test blog/
+```
+

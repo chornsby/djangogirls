@@ -1,7 +1,5 @@
-##  So which one are we talking about here?
+## Testing by developers, maintained by developers
 
-Testing in relating to what a developer does when writing code, we are talking primarily about **unit testing**.
+When talking about testing within this presentation, we are primarely talking about **unit testing**, ie tests written by developers while writing code.
 
-The Django and unittest framework can be used for integration testing too.
-
-For acceptance testing, other tools are available, for example browser automation via Selenium IDE, which works purely in the user level.
+Writing unit tests should be a part of the workflow of all developers in the team.
