@@ -1,12 +1,9 @@
 [
     "index.md",
-    "anders.md",
     [
         "intro/why-write-tests.md",
         "intro/tests-not-for-qa-only.md",
         "intro/unit-tests.md",
-        "intro/integration-tests.md",
-        "intro/acceptance-tests.md",
         "intro/django-testing.md"
     ],
     [
@@ -20,8 +17,10 @@
     	"django-testing-theory/django-testing-framework.md",
     	"django-testing-theory/django-tests-location.md",
     	"django-testing-theory/django-running-tests.md",
+        "django-testing-theory/django-test-database.md",
     	"django-testing-theory/django-test-client.md",
-    	"django-testing-theory/django-test-classes.md"
+    	"django-testing-theory/django-test-classes.md",
+        "django-testing-theory/django-test-order.md"
     ],
     [
         "django-testing-examples/testcase-django-1.md",
@@ -31,6 +30,11 @@
     ],
 	[
         "test-driven-development/tdd-example.md",
+        "test-driven-development/tdd-example-2.md",
+        "test-driven-development/tdd-example-3.md",
+        "test-driven-development/tdd-example-4.md",
+        "test-driven-development/tdd-example-5.md",
+        "test-driven-development/tdd-example-6.md",
         "test-driven-development/tdd-wrapup.md",
         "test-driven-development/tdd-wrapup-2.md"
     ],
@@ -41,6 +45,5 @@
         "test-tips/test-tips-4.md"
     ],
     "outro/the-end.md",
-    "anders.md",
     "outro/follow-us.md"
 ]
